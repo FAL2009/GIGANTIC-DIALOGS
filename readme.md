@@ -13,7 +13,7 @@ You can use GIGANTIC DIALOGS in all of your projects for free!
 
 
 Where I can get GIGANTIC DIALOGS?</header>
-You can get it in the <a href="" >Unity Asset Store</a>, our <a href="" >Github Repo</a> or at <a href="https://gigantic-play.itch.io/gigantic-dialogs" >itch</a>.
+You can get it in the <a href="" >Unity Asset Store</a>, our <a href="github.com/GiganticPlay/gigantic-dialogs" >Github Repo</a> or at <a href="https://gigantic-play.itch.io/gigantic-dialogs" >itch</a>.
 <br>
 <br>
 <header>Key features</header>
